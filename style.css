@@ -1,0 +1,37 @@
+body{
+  background:grey;
+  font-family: 'Roboto', sans-serif;
+  color:#4d4d4d;
+}
+div.quote{
+  margin-top:1em;
+  padding:3em 5em 3em 5em;
+  background:#FFF;
+  border-radius:5px;
+  width:30em;
+  word-wrap: break-word;
+  display:block;
+  font-size:1.5em;
+}
+.leftQ,.rightQ{
+  font-size:2em;
+  font-weight:bold;
+}
+.linIn{
+  width:30em;
+  display:inline-block;
+  margin:0px auto;
+}
+#btnNext{
+  width:10em;
+  background:#e3e3e3;
+  float:left;
+}
+#floatTwitter{
+  float:right;
+  right:0px;
+}
+.author{
+  margin-right:0;
+  float:right;
+}
